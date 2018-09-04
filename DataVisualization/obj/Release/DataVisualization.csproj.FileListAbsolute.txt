@@ -1,0 +1,10 @@
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\bin\Release\DataVisualization.dll
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\bin\Release\DataVisualization.pdb
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Release\DataVisualizationBaseControl.g.cs
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Release\GeneratedInternalTypeHelper.g.cs
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Release\DataVisualization_MarkupCompile.cache
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Release\DataVisualization_MarkupCompile.lref
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Release\DataVisualizationBaseControl.baml
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Release\DataVisualization.g.resources
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Release\DataVisualization.dll
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Release\DataVisualization.pdb

@@ -1,0 +1,16 @@
+D:\Projects\DataVisualization\DataVisualization\bin\Debug\DataVisualization.dll
+D:\Projects\DataVisualization\DataVisualization\bin\Debug\DataVisualization.pdb
+D:\Projects\DataVisualization\DataVisualization\obj\Debug\DataVisualization.csproj.CoreCompileInputs.cache
+D:\Projects\DataVisualization\DataVisualization\obj\Debug\DataVisualization.dll
+D:\Projects\DataVisualization\DataVisualization\obj\Debug\DataVisualization.pdb
+D:\Projects\DataVisualization\DataVisualization\obj\Debug\DataVisualization.csprojResolveAssemblyReference.cache
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Debug\DataVisualization.dll
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Debug\DataVisualization.pdb
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\bin\Debug\DataVisualization.dll
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\bin\Debug\DataVisualization.pdb
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Debug\DataVisualization_MarkupCompile.cache
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Debug\DataVisualization_MarkupCompile.lref
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Debug\DataVisualization.g.resources
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Debug\DataVisualizationBaseControl.g.cs
+G:\Users\Clemens\Documents\Visual Studio 2015\Projects\DataVisualization\DataVisualization\obj\Debug\DataVisualizationBaseControl.baml
