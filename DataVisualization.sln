@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataVisualization", "DataVisualization\DataVisualization.csproj", "{65611450-DC02-473B-88E1-DE47E39CF105}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataVisualization", "DataVisualization.csproj", "{65611450-DC02-473B-88E1-DE47E39CF105}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
