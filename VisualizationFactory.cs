@@ -38,7 +38,7 @@ namespace DataVisualization
         public static bool? Do(IEnumerable<Point> data, Brush brush, UIElement interactor,
             VisualizitionMode mode = VisualizitionMode.Line, double thickness = DataContainer.DefaultThickness)
         {
-            return Do(AsEnumerable(DataContainer.Get(data, brush, mode, thickness)), AsEnumerable<UIElement>());
+            return Do(AsEnumerable(DataContainer.Get(data, brush, mode, thickness)), AsEnumerable(interactor));
         }
 
         public static bool? Do(DataContainer container, UIElement interactor)
