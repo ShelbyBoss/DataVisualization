@@ -22,7 +22,7 @@ namespace DataVisualization
             {
                 if (value == data) return;
 
-                bool equal = value != null && data.SequenceEqual(value);
+                bool equal = data != null && value != null && data.SequenceEqual(value);
 
                 if (data is INotifyCollectionChanged oldSource) oldSource.CollectionChanged -= OnCollectionChanged;
                 if (value is INotifyCollectionChanged newSource) newSource.CollectionChanged += OnCollectionChanged;
